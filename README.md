@@ -1,4 +1,4 @@
-#Information 
++#Information 
 
 lly followed the given strategy and tried implementing the program in sequential
  phases. This project was definitely hard for us because none of us had any expe-
@@ -28,7 +28,7 @@ the user inputs and handled the command 'q' using break in order to break out of
 the shell. We once again used tokens to break up the command line. We used 
 strntok to break up the parts aside the ">" character. 	
 
-#Resources we found online:
++#Resources we found online:
 
 http://www.cplusplus.com/reference/cstring/strchr/ 
 http://stackoverflow.com/questions/15798450/open-with-o-creat-was-it-opened-or-created
