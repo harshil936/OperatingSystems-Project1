@@ -1,2 +1,1 @@
-+# OperatingSystems-Project1
- +UNIX Shell Implementation
+# OperatingSystems: UNIX Shell Implementation
