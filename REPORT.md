@@ -1,4 +1,4 @@
-# UNIX Shell implementation 
+# Operating Systems: UNIX Shell implementation 
 
 As a group project, we met on regular basis to work on this project. We basica- </br>
 lly followed the given strategy and tried implementing the program in sequential </br>
@@ -31,10 +31,10 @@ strntok to break up the parts aside the ">" character. 	</br>
 
 ## Resources we found online:</br>
 
-http://www.cplusplus.com/reference/cstring/strchr/ 
-http://stackoverflow.com/questions/15798450/open-with-o-creat-was-it-opened-or-created
-http://stackoverflow.com/questions/4785126/getlogin-c-function-returns-null-and-error-no-such-file-or-directory 
-https://www.tutorialspoint.com/c_standard_library/c_function_strchr.htm
+http://www.cplusplus.com/reference/cstring/strchr/ </br>
+http://stackoverflow.com/questions/15798450/open-with-o-creat-was-it-opened-or-created</br>
+http://stackoverflow.com/questions/4785126/getlogin-c-function-returns-null-and-error-no-such-file-or-directory</br>
+https://www.tutorialspoint.com/c_standard_library/c_function_strchr.htm</br>
 (To know the syntax of strchr C function)
 
 
